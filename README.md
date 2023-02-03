@@ -4,6 +4,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 ![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
+[Patika.dev](www.patika.dev)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
